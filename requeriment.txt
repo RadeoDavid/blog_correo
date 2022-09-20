@@ -1,0 +1,8 @@
+django==4.1.1
+django-tailwind== 3.4.0
+
+# paginas web necesarias para la edicion
+
+
+# tailwindui.com
+getbootstap.com
